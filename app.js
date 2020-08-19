@@ -5,6 +5,6 @@ const newSerializer = objectSerialize();
 /* 
  * newSerializer has 2 functions : serialize(<objectTypeName>, <pathToFileToSerialize>) and deserialize(<objectTypeName>, <pathToFileToDeSerialize>)
 */
-// newSerializer.serialize("object", "./input/object.json");
+newSerializer.serialize("object", "./input/object.json");
 
-newSerializer.deserialize("object", "./output/object.txt");
+// newSerializer.deserialize("object", "./output/object.txt");
