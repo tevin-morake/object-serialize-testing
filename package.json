@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "whiz-object-serialize": "^1.0.1"
+    "whiz-object-serialize": "^1.0.2"
   }
 }
